@@ -12,6 +12,13 @@ The current iteration of this project plays [Cuphead](https://www.gog.com/game/c
 - Is able to pull a trigger and able to press a button
 - Doesn’t break controller
 
+## Controls
+| Input | Controller setting | Game action |
+| --- | --- | --- |
+| N/a | Joystick | Move |
+| N/a | X | Shoot |
+| N/a | A | Jump |
+
 ## Testing and Results
 
 | Requirement  | Testing standard | Testing result |
