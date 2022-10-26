@@ -5,14 +5,11 @@ Project Definition: Develop a robot hand that is able to use a controller for th
 The intention of this project is to make an articulate, responsive robot hand for users who have limited hand mobility. 
 The current iteration of this project plays X with a X using X input. 
 
-**Design Requirements:**
+Design Requirements:
 - Must be a hands free game interaction 
 - Is able to move a joystick with variable force
 - Is able to pull a trigger and able to press a button
 - Doesn’t break controller
-
-**Design considerations:**
-- Reliably reproduces above actions within a span of a 500ms
 
 ## Testing and Results
 
