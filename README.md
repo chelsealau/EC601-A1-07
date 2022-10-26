@@ -28,8 +28,8 @@ The current iteration of this project plays X with a X using X input.
 
 ## Files
 Agile Development
-- [Sprint 1](slides/) :  Sprint 1 presentation
-- [Sprint 2](slides/) :  Sprint 2 presentation
+- [Sprint 1](slides/sprint 1.pptx) :  Sprint 1 presentation
+- [Sprint 2](slides/sprint 2.pptx) :  Sprint 2 presentation
 
 Documentation
 - [Materials list](docs/) : List of purchased materials
