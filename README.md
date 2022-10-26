@@ -1,12 +1,12 @@
 # Robotic Helping Hand
 
-*Project Definition:* 
+### Project Definition:
 Develop a robot hand that is able to use a controller for the user. 
 
 The intention of this project is to make an articulate, responsive robot hand for users who have limited hand mobility. 
 The current iteration of this project plays [Cuphead](https://www.gog.com/game/cuphead) with an *Xbox Core Wireless Controller* by tracking X input. 
 
-*Design Requirements:*
+### Design Requirements:
 - Must be a hands free game interaction 
 - Is able to move a joystick with variable force
 - Is able to pull a trigger and able to press a button
@@ -31,7 +31,7 @@ The current iteration of this project plays [Cuphead](https://www.gog.com/game/c
 
 ## Final Product and Insights
 
-Further development recommendations include: 
+### Further development recommendations include: 
 - Testing how reactive the hand is with a combo based game (speed)
 - Testing how much force is exerted by the hands to ensure that no damage (such as stuck buttons or stick drift) is done to the controller over time (actuation force vs applied force)
 
