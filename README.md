@@ -23,9 +23,9 @@ The current iteration of this project plays [Cuphead](https://www.gog.com/game/c
 
 | Requirement  | Testing standard | Testing result |
 | --- | --- | --- |
-| Hands free game interaction  | Complete X in game task only using designated user input | Not yet tested |
-| Move a joystick with variable force  | Game performs X action | Not yet tested |
-| Pull a trigger and able to press a button  | Game performs X action  | Not yet tested |
+| Hands free game interaction  | Complete one round in game task only using designated user input | Not yet tested |
+| Move a joystick with variable force  | Move character up, down, left, right | Not yet tested |
+| Pull a trigger and able to press a button  | Switch weapon, lockon to a target, and shoot  | Not yet tested |
 | Doesn’t break controller | Hand holds controller for 15 minutes without dropping  | Not yet tested |
 | Doesn’t break controller | Hand acts on controller for 15 minutes without dropping  | Not yet tested |
 
