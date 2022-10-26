@@ -31,7 +31,7 @@ Documentation
 - [References](docs/) : List of references used throughout project
 
 Project files
-- [CAD](cad/) : CAD Files for 3D printed parts
+- [CAD](CAD/) : CAD Files for 3D printed parts
 - [Code](code/) : Control code
 
 
