@@ -21,6 +21,11 @@ The current iteration of this project plays X with a X using X input.
 | Doesn’t break controller | Hand holds controller for 15 minutes without dropping  | Not yet tested |
 | Doesn’t break controller | Hand acts on controller for 15 minutes without dropping  | Not yet tested |
 
+## Final Product and Insights
+
+Further development recommendations include: 
+- Testing how reactive the hand is with a combo based game (speed)
+- Testing how much force is exerted by the hands to ensure that no damage (such as stuck buttons or stick drift) is done to the controller over time (actuation force vs applied force)
 
 ## Files
 Agile Development
