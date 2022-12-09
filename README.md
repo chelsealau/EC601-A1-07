@@ -31,6 +31,7 @@ The current iteration of this project plays [Super Hexagon](https://superhexagon
 
 ## Final Product and Insights
 ![This is a video of the solution](IMG-9222.mov)
+
 From this project, it is clear that using head tracking as a user input for assistive gaming is achievable. In this project, we were able to move a joystick left and right from the user moving their head left or right. Using ML allows for more adaptive solutions to gaming based on the library used. However there is a design tradeoff we encountered in this project between the complexity of the design (IE amount of user inputs) and integration (IE physical design of controller). 
 
 #### Further development recommendations include: 
@@ -53,5 +54,3 @@ Documentation
 
 Project files
 - [Code](code/) : Control code
-
-
