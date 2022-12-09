@@ -48,9 +48,9 @@ Agile Development
 - [Slides](slides/) :  Sprint presentations
 
 Documentation
-- [Final solution video](/) : View the project responding to head movements
-- [Materials list](docs/) : List of purchased materials
-- [References](docs/) : List of references used throughout project
+- [Final solution video](IMG-9222.mov) : View the project responding to head movements
+- [Materials list](docs/parts.md) : List of purchased materials
+- [References](docs/ref.md) : List of references used throughout project
 
 Project files
-- [Code](code/) : Control code
+- [Code](src/) : Control code
