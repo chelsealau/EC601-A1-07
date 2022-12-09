@@ -1,4 +1,0 @@
-placeholder
-
-|---|---|---|
-| item | quantity | price |
