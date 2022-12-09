@@ -1,4 +1,4 @@
-# Robotic Helping Hand
+# Robotic Helping Hand For Adaptive Gaming
 
 #### Project Definition:
 Develop a robot hand that is able to use a controller for the user. 
